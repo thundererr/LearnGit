@@ -1,0 +1,1 @@
+Git remote is used to add remote connections
